@@ -18,3 +18,10 @@ DEAD
 - Experimentation/Collecting the data
 - Analyzing through statistical testing
 - Drawing conclusion
+
+How to Use This Repository
+- Clone or download the repository to your local machine.
+- Review the slides to gain an understanding of hypothesis testing concepts.
+- Follow the steps outlined in the experiment to conduct a fun hypothesis testing activity.
+- Feel free to modify and customize the content to suit your needs or use it for educational purposes.
+We hope that this repository helps you grasp the concept of hypothesis testing in an engaging and informative manner. Happy testing!
