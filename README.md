@@ -1,8 +1,20 @@
 # hypothesis_testing
 
-The concept of hypothesis could be challenging for beginners to understand the concept clearly. 
-We tried a way to explain the concept in simple manner.
-The slides attached has the content which gives you an simple explanation of Hypothesis testing.
+Welcome to the Hypothesis Testing GitHub repository! This repository contains slides and content aimed at simplifying the concept of hypothesis testing for beginners. Additionally, it includes a fun experiment that you can try following the steps outlined in the slides.
 
+Contents
+- Slides: The repository contains slides designed to explain the concept of hypothesis testing simply and understandably. These slides aim to demystify hypothesis testing and provide clarity to beginners.
 
-Moreover, I came up with a fun experiment (even you could try by following the steps). The slides has detailed experimentation.
+- Experiment: The experiment detailed in the slides is a fun activity that allows you to practically apply the concepts of hypothesis testing. Follow the steps outlined in the slides to conduct the experiment and understand the process of hypothesis testing better.
+
+What is Hypothesis Testing?
+Hypothesis testing is a statistical method used to make inferences about a population based on sample data. It involves formulating two competing hypotheses - the null hypothesis (H0) and the alternative hypothesis (H1) - and using sample data to determine whether there is enough evidence to reject the null hypothesis in favour of the alternative hypothesis.
+
+Steps in Hypothesis Testing:
+
+DEAD
+
+- Defining Hypothesis
+- Experimentation/Collecting the data
+- Analyzing through statistical testing
+- Drawing conclusion
